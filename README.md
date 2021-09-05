@@ -10,6 +10,7 @@ class AboutMe:
             'Python',
             'Java',
             'Swift',
+            'Javascript',
         ]
         self.databases = [
             'PostgreSQL',
