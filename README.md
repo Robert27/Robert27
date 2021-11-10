@@ -3,14 +3,14 @@
 ```python
 class AboutMe:
     def __init__(self):
-        self.name = 'Robert'
+        self.name = 'Robert Eggl'
         self.role = 'Computer Science Student'
         self.degree = 'Artificial Intelligence'
         self.languages = [
+            'Swift',
             'Python',
             'Java',
-            'Swift',
-            'Javascript',
+            'Javascript'
         ]
         self.databases = [
             'PostgreSQL',
