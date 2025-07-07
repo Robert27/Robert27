@@ -1,32 +1,10 @@
-## Hi there! 👋
+# Hey, I'm Robert Eggl 👋
 
-```python
-class AboutMe:
-    def __init__(self):
-        self.name = 'Robert Eggl'
-        self.role = 'Computer Science Student'
-        self.degree = 'Artificial Intelligence'
-        self.languages = [
-            'Swift',
-            'Python',
-            'Java',
-            'Javascript'
-        ]
-        self.databases = [
-            'PostgreSQL',
-            'SQLite',
-            'MongoDB'
-        ]
-        self.languages.append('SQL')
+Community builder, developer & tech enthusiast.\
+Shipping cloud-native, mobile, and intelligent systems with care for performance, UX, and real-world impact.
 
-    def say_hi(self):
-        print(
-            f'• {self.name}\n• {self.role} - {self.degree}\n'
-            f'• Languages: {", ".join(self.languages)}\n• Databases: {", ".join(self.databases)}'
-        )
+🌴 Leading software projects & mentoring devs at [Neuland Ingolstadt](https://github.com/neuland-ingolstadt)  
+🎓 M.Sc. Cloud & Security Engineering (currently) • B.Sc. Artificial Intelligence  
+🛠️ Rust, TypeScript, Python, Java, React (Native)
 
-
-me = AboutMe()
-me.say_hi()
-
-```
+🔗 More about me, my projects & blog: [eggl.dev](https://eggl.dev)
