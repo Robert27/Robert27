@@ -1,10 +1,7 @@
 # Robert Eggl 👋
 
-Full-stack & AI @SAP
-
+**Full-stack & AI @SAP**<br/>
 Building scalable systems & AI-powered features
-
----
 
 **Focus**  
 Enterprise SaaS • Distributed Systems • AI
