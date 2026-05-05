@@ -1,6 +1,6 @@
 # Robert Eggl 👋
 
-**Full-stack & AI @SAP**<br/>
+**Full-Stack & AI @SAP**<br/>
 Building scalable systems & AI-powered features
 
 **Focus**  
