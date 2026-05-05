@@ -1,15 +1,22 @@
 # Hey, I'm Robert Eggl 👋
 
-Community builder, developer & tech enthusiast.\
-Shipping cloud-native, mobile, and intelligent systems with care for performance, UX, and real-world impact.
+Full-stack developer building enterprise-grade cloud applications and modern user interfaces.
+Focused on scalable systems, clean architecture, and pragmatic engineering.
 
 ---
-🌴 Leading software projects & mentoring devs at [Neuland Ingolstadt e.V.](https://github.com/neuland-ingolstadt)  
-🎓 M.Sc. Cloud & Security Engineering (currently) • B.Sc. Artificial Intelligence  
 
-🛠️ TypeScript • Rust • Python • Java • SQL  
-⚙️ React • React Native • Next.js • GraphQL • REST • (No)SQL • PyTorch  
-☁️ Git • Docker • CI/CD • Kubernetes
+💼 Full Stack Developer at SAP (CAP • UI5 • Cloud Platform)
+🌴 Leading software projects & mentoring at Neuland Ingolstadt e.V.
+🎓 M.Sc. Cloud & Security Engineering (ongoing) • B.Sc. Artificial Intelligence
 
 ---
-🔗 More about me, my projects & blog: [eggl.dev](https://eggl.dev/)
+
+🛠️ TypeScript • Java • Rust • Python • SQL
+⚙️ SAP CAP • SAP UI5 • React • React Native • GraphQL • REST
+☁️ Git • Docker • CI/CD • Kubernetes • Cloud Architectures
+
+---
+
+🚀 Interests: Distributed systems • AI-powered applications • Developer tooling • UX
+
+🔗 More about me: https://eggl.dev
