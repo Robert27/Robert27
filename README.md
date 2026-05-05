@@ -4,7 +4,7 @@
 Building scalable systems & AI-powered features
 
 **Focus**  
-Enterprise SaaS • Distributed Systems • AI
+Enterprise • Cloud Native • Distributed Systems • AI
 
 **Stack**  
 TypeScript • Java • Rust • Python  
