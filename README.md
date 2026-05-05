@@ -1,6 +1,7 @@
 # Robert Eggl 👋
 
-Full-stack @SAP → CAP • UI5 • Cloud • AI 
+Full-stack & AI @SAP
+
 Building scalable systems & AI-powered features
 
 ---
