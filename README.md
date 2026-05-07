@@ -14,6 +14,6 @@ Docker • Kubernetes • CI/CD
 ---
 
 🌴 Neuland Ingolstadt e.V. - Project Lead & Mentor  
-🎓 M.Sc. Cloud & Security Engineering & B.Sc. Artificial Intelligence
+🎓 M.Sc. Cloud Applications & Security Engineering & B.Sc. Artificial Intelligence
 
 → https://eggl.dev
